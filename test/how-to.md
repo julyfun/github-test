@@ -1,9 +1,9 @@
-yes
-yes
-no
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
 
-yes
+int main() {
 
-yes
-
-yes
+    return 0;
+}
+```
